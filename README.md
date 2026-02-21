@@ -11,7 +11,7 @@ This is a fully functional calculator app for Android, built using HTML, CSS, an
 - Responsive design for all screen sizes
 
 ## 📥 How to Install
-1. Go to the [Releases](https://github.com/New-Creator-Of-Htmls-By-Gemini/Calculator/releases) section.
+1. Go to the [Releases](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases/tag/New) section.
 2. Download the `app-release.apk` file.
 3. Open the file on your Android device.
 4. If prompted, allow "Install from Unknown Sources" or click "Install Anyway" on the Play Protect screen.
