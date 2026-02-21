@@ -1,7 +1,7 @@
 # Calculator
 Do not use
 # 📱 Simple Android Calculator
-Created by **New-Creator-Of-Htmls-By-Gemini**
+Created by **New-Creatof-Of-Htmls-By-Gemini**
 
 This is a fully functional calculator app for Android, built using HTML, CSS, and JavaScript, then compiled into a native APK.
 
@@ -17,4 +17,4 @@ This is a fully functional calculator app for Android, built using HTML, CSS, an
 4. If prompted, allow "Install from Unknown Sources" or click "Install Anyway" on the Play Protect screen.
 
 ---
-*Built with the help of Gemini AI.*
+*Built with the help*
