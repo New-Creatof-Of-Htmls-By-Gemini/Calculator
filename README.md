@@ -1,8 +1,82 @@
-## Calculator Project
-Hello! I making a calculators of others on phone!
-Yeah its hard because I don't know to code.
-But I make it!
-## Download
-to download just click [Here 🚀](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases) to see the all versions
-(maked in 10 hours)
-## Thanks for watching!
+# 📱 PRO CALCULATOR PROJECT
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# 📥 INSTALLATION
+
+&nbsp;
+&nbsp;
+
+# [━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓]([](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
+# [┃ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases/tag/New)
+# [┃ &nbsp;&nbsp;&nbsp; 🚀 CLICK HERE TO DOWNLOAD APK 🚀 &nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
+# [┃ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
+# [┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
+
+&nbsp;
+&nbsp;
+
+### ⬆️ TAP THE BOX ABOVE TO START ⬆️
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+## 🛠️ APP SPECIFICATIONS
+* **Version:** 2.2
+* **Build:** Production
+* **Compatibility:** Android 5.0+
+* **Size:** Lightweight Web-App
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## 🛡️ SECURITY & PRIVACY
+* **Verified Build:** No malware/ads.
+* **Zero Data:** No internet connection required or idk.
+* **Local Storage:** History stays on your phone.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+# [🌐 VIEW SOURCE CODE](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator)
+
+---
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+###### Developed with 💜 for Mobile users.
