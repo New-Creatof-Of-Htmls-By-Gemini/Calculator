@@ -11,14 +11,8 @@
 &nbsp;
 &nbsp;
 
-# [━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓]([](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases))
-# [┃ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases/tag/New)
-# [┃ &nbsp;&nbsp;&nbsp; 🚀 CLICK HERE TO DOWNLOAD APK 🚀 &nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
-# [┃ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
-# [┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
 
-&nbsp;
-&nbsp;
+# [┃ &nbsp;&nbsp;&nbsp; 🚀 CLICK HERE TO DOWNLOAD APK 🚀 &nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
 
 ### ⬆️ TAP THE BOX ABOVE TO START ⬆️
 
