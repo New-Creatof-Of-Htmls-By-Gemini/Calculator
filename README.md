@@ -12,7 +12,7 @@
 &nbsp;
 
 
-# [┃ &nbsp;&nbsp;&nbsp; 🚀 CLICK HERE TO DOWNLOAD APK 🚀 &nbsp;&nbsp;&nbsp; ┃](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
+# [ &nbsp;&nbsp;&nbsp; 🚀 CLICK HERE TO DOWNLOAD APK 🚀 &nbsp;&nbsp;&nbsp; ](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Calculator/releases)
 
 ### ⬆️ TAP THE BOX ABOVE TO START ⬆️
 
@@ -71,6 +71,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
 
-###### Developed with 💜 for Mobile users.
+## 🤝 Join the Dev Team
+Have questions or want to help improve the code? Join the official Discord:
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rqXrWXe3F)
+
+> **[Click to join the Nano Discord](https://discord.gg/rqXrWXe3F)
