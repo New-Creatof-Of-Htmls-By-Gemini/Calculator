@@ -75,6 +75,5 @@
 ## 🤝 Join the Dev Team
 Have questions or want to help improve the code? Join the official Discord:
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rqXrWXe3F)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/rqXrWXe3F)
 
-> **[Click to join the Nano Discord](https://discord.gg/rqXrWXe3F)
